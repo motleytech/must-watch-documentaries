@@ -8,7 +8,7 @@ I plan to continuously update this list (even remove some), and also include doc
 
 You can either submit an issue, or create a pull request for submitting your suggestions.
 
-- mt
+\- mt
 
 
 ----
